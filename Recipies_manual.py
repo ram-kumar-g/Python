@@ -1,3 +1,6 @@
+''' A program to view edit delete the recipies in a recipe folder
+    Concepts used : directories,pathlib,file manipulation,functions,methods,match cases'''
+
 from pathlib import Path
 import os
 
